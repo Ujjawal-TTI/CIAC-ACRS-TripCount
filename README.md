@@ -19,7 +19,7 @@ MPO_Missing_Data_List.csv - Roads with zero data (Year, MPO, Road ID)
 
 
 *********
-Script 2: Missing Data Comparison
+Script 2: Missing Data Comparison (compare_with_tx_allyears.py)
 Purpose: Compare missing data records against PostgreSQL database to identify coverage.
 
 Configuration
