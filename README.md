@@ -7,7 +7,7 @@ Pipeline Overview
 Script 1: Extract trip data from Azure → Generate Excel report + Missing Data CSV
 Script 2: Compare Missing Data CSV with PostgreSQL database → Identify coverage gaps
 
-Script 1: MPO Road Trip Analysis
+Script 1: MPO Road Trip Analysis (trip_count_from_azure.py)
 Purpose: Analyze vehicle trip counts by weight class across MPOs, Road IDs, and years.
 
 Configuration
